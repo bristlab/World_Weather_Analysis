@@ -9,6 +9,11 @@ __pycache__/
 # Credentials
 config.py
 
+# Additional files
+
+API_practice.ipynb
+random_numbers.ipynb
+
 # Distribution / packaging
 .Python
 build/
