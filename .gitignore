@@ -11,8 +11,8 @@ config.py
 
 # Additional files
 
-#API_practice.ipynb
-#random_numbers.ipynb
+API_practice.ipynb
+random_numbers.ipynb
 .DS_Store
 
 # Distribution / packaging
